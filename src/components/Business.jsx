@@ -55,7 +55,7 @@ const Business = () => {
         
         </a>
          <a 
-        href="https://github.com/LeoRossi37"
+        href="https://github.com/LeoRossi37/Learning-C"
         target="_blank"
         rel="noopener noreferrer"
         onMouseMove={handleMouseMove}
@@ -84,7 +84,7 @@ const Business = () => {
         
         </a>
         <a 
-        href="https://github.com/LeoRossi37"
+        href="https://github.com/LeoRossi37/Java-Studies"
         target="_blank"
         rel="noopener noreferrer"
         onMouseMove={handleMouseMove}
@@ -113,7 +113,7 @@ const Business = () => {
         
         </a>
         <a 
-        href="https://github.com/LeoRossi37"
+        href="https://github.com/LeoRossi37/Competitive-programming"
         target="_blank"
         rel="noopener noreferrer"
         onMouseMove={handleMouseMove}
